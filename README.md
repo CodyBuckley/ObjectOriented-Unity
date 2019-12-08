@@ -30,6 +30,7 @@ This is a Unity Project for COP 3003. The project will be based on the Unity Cou
 - Visual Studios 2017
 - Unity 2019.1.14f1 
 - Unity 2019.2.14f1 
+
 **Resources**
 - Unity's educational course on game design development including lessons on programming the required scripts.
   - 2D and 3D Physics
